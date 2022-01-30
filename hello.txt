@@ -1,2 +1,2 @@
 hello world ! I  will learn git this week .
-from pepcoding on youtube
+from pepcoding on youtube today
